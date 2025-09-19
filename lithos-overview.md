@@ -91,10 +91,11 @@ Lithos employs multiple mechanisms to ensure deep, long-term liquidity:
 
 Building on Plasma provides unique benefits:
 
-**Low Transaction Costs**: Minimal fees for all platform interactions
-**Fast Finality**: Quick trade execution and confirmations  
-**EVM Compatibility**: Works with existing wallets and tools
-**Growing Ecosystem**: Expanding DeFi landscape with cross-protocol opportunities
+**Zero-Fee USDT Transfers**: Native integration eliminates gas costs for USDT transactions
+**Stablecoin-Optimized Infrastructure**: $2B+ stablecoin liquidity and purpose-built for the $220B stablecoin market
+**High Performance**: PlasmaBFT consensus with 1,500+ TPS capacity for institutional-grade volumes
+**Deep DeFi Integration**: 100+ partners including Aave, Ethena, Fluid providing immediate utility
+**Institutional Backing**: Secured by Bitcoin anchoring and backed by Tether, Bitfinex, Framework Ventures
 
 ---
 
@@ -103,11 +104,9 @@ Building on Plasma provides unique benefits:
 Lithos generates sustainable revenue through:
 
 **Trading Fees**: Collected from all swaps across all pools
-**Partnership Revenue**: Integration fees and strategic collaborations
-**Foundry Launchpad**: Project onboarding and launch support services
-**Cross-Protocol Integrations**: Revenue sharing with ecosystem partners
+**Foundation veNFT Positions**: Revenue earned from the foundation's locked veLITH holdings
 
-This revenue powers the **Ignition Program**, which buys LITH tokens on the open market and distributes them to veLITH holders, creating deflationary pressure and additional rewards for committed participants.
+This revenue powers the **Ignition Program**, which buys LITH tokens on the open market and distributes them to veLITH holders and lockers, creating deflationary pressure and additional rewards for committed participants.
 
 ---
 
