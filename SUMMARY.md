@@ -12,3 +12,6 @@
 * [Whitelist Tokens](gauges/whitelist-tokens.md)
 * [Add Gauges](gauges/add-gauges.md)
 * [Add Voting Incentives](gauges/add-voting-incentives.md)
+
+* [Liquidity Provision](liquidity-provision.md)
+* [Security](security.md)
