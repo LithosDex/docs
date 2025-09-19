@@ -10,3 +10,5 @@
 ## Gauges & Voting Incentives
 * [Gauges & Voting Incentives](gauges/README.md)
 * [Whitelist Tokens](gauges/whitelist-tokens.md)
+* [Add Gauges](gauges/add-gauges.md)
+* [Add Voting Incentives](gauges/add-voting-incentives.md)
