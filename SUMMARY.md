@@ -1,3 +1,4 @@
-# Table of contents
+# Table of Contents
 
-* [Page](README.md)
+* [Lithos Platform Overview](README.md)* [Welcome](README.md)
+* [Lithos Overview](lithos-overview.md)
