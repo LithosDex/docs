@@ -6,3 +6,7 @@
 * [LITH Tokenomics](tokenomics/README.md)
 * [Tokens (LITH, veLITH)](tokenomics/tokens.md)
 * [Initial Supply and Emissions Schedule](tokenomics/supply-emissions.md)
+
+## Gauges & Voting Incentives
+* [Gauges & Voting Incentives](gauges/README.md)
+* [Whitelist Tokens](gauges/whitelist-tokens.md)
