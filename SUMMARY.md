@@ -13,5 +13,8 @@
 * [Add Gauges](gauges/add-gauges.md)
 * [Add Voting Incentives](gauges/add-voting-incentives.md)
 
+## Liquidity Provision
 * [Liquidity Provision](liquidity-provision.md)
+
+## Security
 * [Security](security.md)
