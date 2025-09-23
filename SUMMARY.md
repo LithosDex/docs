@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Lithos Overview](README.md)
+* [Page](page.md)
 
 ## Tokenomics
 

@@ -52,6 +52,6 @@ You only earn revenue from the pools you've actively voted on during that period
 
 ## Token Addresses
 
-_Token addresses will be published upon deployment to Plasma blockchain._
+Token addresses will be published upon deployment to Plasma blockchain.
 
 ***

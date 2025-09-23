@@ -1,126 +1,152 @@
 # Lithos Overview
 
-Lithos is a DeFi platform built on Plasma blockchain, designed to serve as the central liquidity hub for the ecosystem. Our platform focuses on providing essential trading infrastructure and project launch capabilities through two core products.
+Lithos is a **3,3 DEX** built on the Plasma blockchain. It is designed to serve as the central liquidity layer for Plasma, providing traders, liquidity providers, and governance participants with a sustainable platform that grows alongside the ecosystem.
 
-## Core Products
+Unlike traditional DEXs that rely heavily on short-term liquidity incentives, Lithos is structured around the **ve(3,3) model**, which prioritizes long-term alignment between all participants. This means:
 
-### **Lithos DEX**: Decentralized Exchange
+* Traders gain access to deep liquidity and low-slippage swaps.
+* Liquidity providers earn both trading fees and emissions, creating consistent yield opportunities.
+* veLITH holders shape the direction of the protocol, deciding how liquidity incentives are distributed.
+* New projects can bootstrap liquidity and community trust through the Foundry Launchpad.
 
-A spot DEX where users can:
+Lithos functions as Plasma’s liquidity engine, integrating trading, governance, and ecosystem expansion into a unified system.
 
-* **Swap digital assets** with minimal slippage
-* **Provide liquidity** and earn trading fees
-* **Generate passive income** through various reward mechanisms
-* **Participate in governance** via veLITH voting
+### Core Products
 
-### **Foundry Launchpad**: Project Bootstrap Platform
+#### Lithos DEX
 
-An upcoming comprehensive launchpad that enables new projects to:
+The DEX is the foundation of the platform. Built on ve(3,3) mechanics, it ensures liquidity is both deep and sustainable.
 
-* **Bootstrap liquidity** for their tokens
-* **Access governance participation** through gauge whitelisting
-* **Build community** within the Lithos ecosystem
-* **Receive technical support** for integration
+* **Swaps with Minimal Slippage:** Traders can exchange assets across stable and volatile pools with optimized routing that reduces price impact.
+* **Liquidity Provisioning:** LPs deposit assets into pools and earn yield from both trading fees and veLITH-directed emissions.
+* **Transparent Analytics:** All liquidity, fees, and rewards are trackable through the dashboard, giving participants clear insight into their positions.
+* **Governance Integration:** Unlike traditional DEXs, emissions are not dictated by the core team but by veLITH holders, aligning liquidity flow with community incentives.
 
-***
+#### Foundry Launchpad
 
-## The Vision
+The Foundry Launchpad acts as the entry point for new projects building on Plasma. It lowers the barrier to entry by offering both technical and liquidity support.
 
-Lithos aims to become the **primary liquidity backbone** of the Plasma blockchain ecosystem. Our vision is to create a sustainable, community-governed DEX that provides:
-
-**Deep Liquidity**: Through our unique Protocol-Owned Liquidity (POL) strategy and ve(3,3) incentive alignment
-
-**Long-term Sustainability**: Via revenue-driven programs like Ignition (buyback mechanism) and community-controlled emissions
-
-**Ecosystem Growth**: Through the Foundry Launchpad and strategic partnership programs
-
-**Security First**: Built on the battle-tested Thena.fi codebase with multiple independent audits
+* **Liquidity Bootstrapping:** Projects can instantly access the Lithos DEX to establish liquid trading pairs.
+* **Governance Whitelisting:** Projects can seek gauge approval, allowing them to direct emissions toward their pools, creating deeper liquidity.
+* **Community Access:** Foundry projects benefit from integration into Lithos governance and the Plasma ecosystem.
+* **Ecosystem Resources:** APIs, SDKs, and direct support make it easier for teams to integrate without building infrastructure from scratch.
 
 ***
 
-## Simplified User Experience
+### Protocol Design
 
-Lithos prioritizes accessibility and ease of use for participants at all levels:
+Lithos combines several mechanisms to build a liquidity system that can last through market cycles:
 
-### **For New Users**
-
-* **Simple swapping interface** with clear pricing and minimal fees
-* **Educational resources** to understand ve(3,3) mechanics
-* **Transparent fee structure** with no hidden costs
-* **Mobile-optimized interface** for convenient access
-
-### **For Liquidity Providers**
-
-* **Dual pool types**: Stable pools (low fee) and volatile pools (standard fee)
-* **Clear reward tracking** showing trading fees and emission rewards
-* **Flexible position management** with easy entry and exit
-* **Comprehensive analytics** for performance monitoring
-
-### **For Governance Participants**
-
-* **Intuitive locking interface** for converting LITH to veLITH
-* **Weekly voting cycles** with clear gauge options
-* **Transparent reward distribution** from bribes and protocol revenue
-* **Community discussion channels** for informed decision-making
+* **ve(3,3) Incentives:**
+  * Locking LITH generates veLITH, which represents voting power.
+  * veLITH holders control emissions, deciding which pools receive rewards each week.
+  * The system rewards long-term commitment through extended lock periods, giving participants more influence and higher returns.
+  * Emissions flow to where the community sees value, not where a central team dictates.
+* **Protocol-Owned Liquidity (POL):**
+  * A share of revenue is reinvested to create permanent base liquidity.
+  * This reduces dependency on short-term LPs who might otherwise leave after rewards dry up.
+  * POL ensures there is always liquidity for core trading pairs, supporting price stability.
+* **Ignition Program:**
+  * Revenue from trading fees and protocol positions is used to buy back LITH on the open market.
+  * These tokens are redistributed to veLITH holders, creating a feedback loop of rewards.
+  * Ignition not only incentivizes governance participation but also applies deflationary pressure on the token supply.
+* **Multi-AMM Pools:**
+  * **Stable Pools:** Optimized for correlated assets (e.g., USDC/USDT), offering minimal slippage.
+  * **Volatile Pools:** For uncorrelated assets, allowing price discovery while still generating fees.
+  * **Concentrated Liquidity Pools:** LPs can choose tighter ranges for higher efficiency, maximizing capital use.
+  * **Multiple Fee Tiers:** Pools can be configured with fees appropriate to their risk level, ensuring flexibility across asset classes.
 
 ***
 
-## Building Sustainable Liquidity
+### Governance
 
-Lithos employs multiple mechanisms to ensure deep, long-term liquidity:
+Governance is the foundation of Lithos, giving token holders direct influence over how the protocol develops.
 
-### **ve(3,3) Incentive Structure**
+**Locking Mechanism**\
+Users lock LITH to mint veLITH. Longer lock durations grant greater voting power, discouraging short-term speculation while rewarding participants who commit to the protocol.
 
-* **Aligned incentives** between traders, liquidity providers, and governance participants
-* **Flexible emission control** through community voting on gauge weights
-* **Revenue sharing** that grows with protocol success
-* **Long-term commitment** rewarded through extended lock periods
+**Gauge Voting**\
+veLITH holders guide emissions through weekly gauge voting. By deciding which liquidity pools receive incentives, the community ensures that rewards remain aligned with real trading demand.
 
-### **Protocol-Owned Liquidity (POL)**
+**Reward System**\
+Voters are rewarded not only with emissions but also with bribes from external partners and a share of protocol revenue. Diverse reward flows give participants stronger reasons to stay engaged in governance and liquidity provision.
 
-* **Permanent base liquidity** seeded by the protocol
-* **Reduced dependency** on mercenary capital
-* **Price stability** through consistent liquidity depth
-* **Community benefit** from protocol-owned trading fees
-
-### **Strategic Partnership Programs**
-
-* **Bribe-Match Program**: Lithos matches ecosystem partner incentives
-* **Foundry Launchpad**: Comprehensive project onboarding and support
-* **Technical integration**: APIs and tools for seamless ecosystem participation
-
-### **Multiple AMM Options**
-
-* **Stable Pools**: Optimized for correlated assets (USDT/USDC, USDAI/sUSDAI)
-* **Volatile Pools**: Designed for price discovery (XPL/USDT, LITH/XPL)
-* **Concentrated Liquidity**: Efficient capital utilization for LPs
-* **Multiple Fee Tiers**: Appropriate pricing for different risk profiles
+**Community-Led Decisions**\
+Because veLITH holders control the flow of emissions, the ecosystem grows in the directions most valued by the community. This prevents centralized manipulation and distributes decision-making power across active stakeholders.
 
 ***
 
-## Plasma Blockchain Advantages
+### Plasma Advantages
 
-Building on Plasma provides unique benefits:
+Building on the Plasma blockchain gives Lithos a set of unique benefits that strengthen its role as a 3,3 DEX.
 
-**Zero-Fee USDT Transfers**: Native integration eliminates gas costs for USDT transactions **Stablecoin-Optimized Infrastructure**: $2B+ stablecoin liquidity and purpose-built for the $220B stablecoin market **High Performance**: PlasmaBFT consensus with 1,500+ TPS capacity for institutional-grade volumes **Deep DeFi Integration**: 100+ partners including Aave, Ethena, Fluid providing immediate utility **Institutional Backing**: Secured by Bitcoin anchoring and backed by Tether, Bitfinex, Framework Ventures
+**Gas-Free USDT Transfers**\
+Plasma provides native support for USDT transfers without gas fees. Traders can move stablecoins at no extra cost, making swaps more efficient and cost-effective.
+
+**Stablecoin-Optimized Infrastructure**\
+With more than $2B in stablecoin liquidity already active, Plasma is purpose-built for stablecoin-driven markets. This foundation makes it an ideal environment for deep, reliable liquidity pools.
+
+**High Performance**\
+PlasmaBFT consensus delivers over 1,500 transactions per second. This capacity enables low-latency swaps and supports the trading volumes needed by both retail and professional users.
+
+**DeFi Integration**\
+Lithos is directly connected to more than 100 ecosystem partners, including Aave, Ethena, and Fluid. This level of integration expands utility and ensures immediate interoperability with the wider DeFi landscape.
+
+**Security Anchored to Bitcoin**\
+Plasma’s security model anchors to Bitcoin, providing resilience against network attacks. Backing from Tether, Bitfinex, and Framework Ventures further reinforces confidence in the chain’s long-term reliability.
+
+***
+
+### Revenue Model
+
+The revenue framework of Lithos is built for sustainability and long-term value capture. Each stream reinforces liquidity depth, governance participation, and token demand.
+
+**Trading Fees**
+
+* Every swap executed on the DEX generates a fee.
+* Fees are shared between liquidity providers, veLITH holders, and the protocol treasury.
+* As trading activity grows, participants benefit from higher and more consistent rewards.
+
+**veNFT Holdings**
+
+* The foundation maintains long-term veLITH locks to remain an active stakeholder.
+* veNFT positions allow the foundation to earn protocol rewards without controlling emissions directly.
+* This structure aligns the foundation with community incentives while avoiding centralization.
+
+**Ignition Program**
+
+* A share of protocol revenue funds the Ignition Program.
+* Revenue is used to purchase LITH from the open market, reducing circulating supply.
+* Bought-back tokens are redistributed to veLITH holders, rewarding governance participants and driving sustained demand for LITH.
+
+The combined system produces steady revenue flows, recycles value into the community, and embeds deflationary pressure into the token economy.
 
 ***
 
-## Revenue Model
+### Security
 
-Lithos generates sustainable revenue through:
+Lithos prioritizes security and reliability by building on audited infrastructure and enforcing transparent, decentralized control.
 
-**Trading Fees**: Collected from all swaps across all pools **Foundation veNFT Positions**: Revenue earned from the foundation's locked veLITH holdings
+**Audited Codebase**
 
-Revenue powers the **Ignition Program**, which buys LITH tokens on the open market and distributes them to veLITH holders and lockers, creating deflationary pressure and additional rewards for committed participants.
+* Core contracts are forked directly from Thena.fi.
+* Thena.fi has undergone multiple independent audits, providing a tested foundation for Lithos.
+* Using a proven codebase reduces risk for traders, liquidity providers, and governance participants.
 
-***
+**Zero Modifications**
 
-## Security & Reliability
+* Security-critical contracts remain unchanged from the audited source.
+* Preserving the original design ensures that audit guarantees are not compromised.
+* Stability of the code builds confidence for both retail and institutional users.
 
-**Proven Foundation**: Direct fork of Thena.fi with multiple independent audits \
-**Zero Modifications**: Preserves security properties of the original audited code \
-**Community Governance**: Decentralized decision-making prevents single points of failure \
-**Transparent Operations**: All protocols actions are publicly verifiable on-chain
+**On-Chain Transparency**
 
-***
+* All protocol operations are executed and recorded directly on-chain.
+* Gauge emissions, buybacks, and revenue distributions are publicly visible and verifiable.
+* Full transparency prevents hidden actions and builds trust in the system.
+
+**Decentralized Governance**
+
+* Control of emissions and protocol direction rests with veLITH holders.
+* No single entity can monopolize decision-making or redirect rewards.
+* The governance model distributes influence across active community members, reducing systemic risk.

@@ -1,83 +1,83 @@
 # Initial Supply and Emissions Schedule
 
-## Initial Supply
+### Initial Supply
 
-_Initial supply distribution chart will be added upon finalization of token distribution details._
+The initial supply of LITH is designed to provide liquidity depth from launch, fund long-term ecosystem growth, and ensure alignment between the foundation, community, and governance participants. A detailed supply distribution chart will be published once final allocations are confirmed.
 
-### **Protocol-Owned Liquidity (POL)**
+**Protocol-Owned Liquidity (POL)**
 
-A significant portion of the initial supply is dedicated to Protocol-Owned Liquidity to seed core trading pairs on Plasma. This ensures deep liquidity from launch for essential pairs including XPL/USDT, USDAI/USDT, and USDAI/sUSDAI, reducing dependency on mercenary capital and providing a stable foundation for the ecosystem.
+* A significant portion of the initial supply is allocated to Protocol-Owned Liquidity.
+* POL seeds core trading pairs such as XPL/USDT, USDAI/USDT, and USDAI/sUSDAI.
+* Permanent liquidity reduces dependence on mercenary capital and stabilizes trading conditions from day one.
 
-### **Public Goods Fund**
+**Public Goods Fund**
 
-A substantial allocation is permanently locked into the Public Goods Fund to support long-term ecosystem development, grants for projects building on Plasma, and community initiatives that benefit the broader ecosystem.
+* A permanent allocation supports ecosystem development, grants, and community initiatives.
+* Funds are reserved for projects building on Plasma and for activities that deliver long-term value to the broader ecosystem.
 
-### **Foundation**
+**Foundation**
 
-Foundation allocation includes operational funding and strategic reserves, with a significant portion locked in veLITH to align foundation interests with long-term protocol success and provide sustainable revenue through governance participation.
+* The foundation allocation covers operational funding and strategic reserves.
+* A meaningful portion is locked into veLITH, ensuring that the foundation participates in governance and earns protocol revenue alongside the community.
+* This structure aligns foundation incentives with long-term protocol success.
 
-### **Ignition Program**
+**Ignition Program**
 
-Dedicated allocation for the Ignition Program, which uses protocol revenue to purchase LITH tokens on the open market and distribute them to veLITH holders. This creates deflationary pressure while rewarding committed governance participants.
+* A dedicated allocation supports the Ignition Program.
+* Revenue from trading activity is used to purchase LITH from the open market.
+* Tokens acquired through buybacks are redistributed to veLITH holders, creating consistent demand and reinforcing deflationary pressure.
 
-### **Community Growth**
+**Community Growth**
 
-Allocation for community incentives, ecosystem partnerships, and growth initiatives to expand Lithos adoption across the Plasma ecosystem.
+* Reserved supply for incentives, partnerships, and initiatives that drive adoption of Lithos across the Plasma ecosystem.
+* Growth-focused allocation ensures continued expansion and user onboarding.
 
-### **Initial Liquidity Incentives**
+**Initial Liquidity Incentives**
 
-Small allocation for initial liquidity incentives to bootstrap trading activity before full emissions begin, ensuring smooth protocol launch and user onboarding.
-
-***
-
-## **Emissions**
-
-### **Phased Launch Strategy**
-
-Unlike traditional DEX launches, Lithos employs a unique phased approach:
-
-**Phase 1: Protocol-Owned Liquidity Period**
-
-* **No token emissions initially**
-* POL provides base liquidity for core trading pairs
-* Foundation veLITH positions generate revenue for Ignition Program
-* Establishes trading volume and fee generation
-
-**Phase 2: Community Governance Activation**
-
-* LITH emissions begin based on community governance decision
-* veLITH holders direct emission rewards to liquidity pools
-* Full ve(3,3) mechanics activated
-
-### **ve(3,3) Dynamics**
-
-Once emissions begin, all stakeholders are aligned through ve(3,3) dynamics:
-
-* **veLITH holders**: vote for highest volume pools to maximize fee generation or pools with partner bribes, creating positive feedback loops for successful tokens
-* **Liquidity Providers (LPs):** receive emissions driven by "Real Yield" metrics and community-directed incentives
-* **Traders**: benefit from deep liquidity and low slippage across stable and volatile pools
-* **Ecosystem Partners**: access capital-efficient trading and can incentivize liquidity through the Bribe-Match Program
-
-### **Emissions Specifications**
-
-_Emissions parameters will be determined by community governance when the emission phase begins. Initial parameters will be proposed based on:_
-
-* **Weekly emissions**: To be determined by governance
-* **Weekly emissions decay**: Community-controlled parameter
-  * _Emissions for liquidity providers_: Majority allocation
-  * _Weekly veLITH rebase_: Anti-dilution protection for lockers
-  * _Protocol development allocation_: Minimal percentage for ongoing development
-* **Maximum supply**: To be determined through governance process
-
-### **Sustainable Tokenomics**
-
-Lithos prioritizes long-term sustainability over short-term incentives:
-
-* **Large permanent locks**: Significant supply permanently committed to long-term programs
-* **Revenue-driven value**: Ignition Program creates buying pressure using real protocol revenue
-* **Community control**: Governance determines emission schedules and parameters
-* **Aligned incentives**: All participants benefit from protocol success and trading volume growth
+* A small allocation is used for liquidity incentives during the earliest stages of the launch.
+* These incentives bootstrap initial trading activity and smooth the transition into the full emission phase.
 
 ***
 
-_Detailed emission schedules and distribution parameters will be published following community governance decisions and protocol launch preparations._
+### Emissions
+
+Lithos adopts a phased emission strategy that emphasizes sustainability and community governance rather than short-term liquidity mining.
+
+**Phased Launch Strategy**
+
+* **Phase 1: Protocol-Owned Liquidity Period**
+  * No emissions are distributed initially.
+  * POL supplies liquidity for essential trading pairs.
+  * Foundation veLITH positions begin generating revenue for the Ignition Program.
+  * The focus is on establishing trading volume and organic fee generation.
+* **Phase 2: Community Governance Activation**
+  * LITH emissions commence once governance decides conditions are met.
+  * veLITH holders direct emissions toward liquidity pools through weekly gauge voting.
+  * Full ve(3,3) dynamics are activated, ensuring that incentives align across all stakeholders.
+
+**ve(3,3) Dynamics**
+
+* **veLITH Holders** vote for pools that generate the strongest volume or partner bribes, creating self-reinforcing liquidity loops.
+* **Liquidity Providers** receive emissions tied to real yield and community-driven incentives, ensuring rewards are linked to productive liquidity.
+* **Traders** benefit from deep liquidity and competitive pricing across both stable and volatile pools.
+* **Ecosystem Partners** can direct liquidity through the Bribe-Match Program, accessing capital-efficient trading while strengthening their token markets.
+
+**Emissions Specifications**
+
+* Emission parameters will be decided by community governance.
+* Initial proposals will include:
+  * Weekly emissions levels
+  * Emission decay rate (governance-controlled)
+  * Majority allocation for liquidity providers
+  * Weekly veLITH rebase to prevent dilution
+  * A minimal allocation for protocol development
+  * Maximum supply parameters determined through governance
+
+**Sustainable Tokenomics**
+
+* Large permanent locks dedicate a substantial portion of supply to long-term programs.
+* Revenue-backed buybacks through the Ignition Program create natural buying pressure.
+* Governance decides emission schedules, ensuring emissions evolve with ecosystem needs.
+* Incentives are aligned so that liquidity providers, traders, veLITH holders, and partners all benefit from ecosystem growth.
+
+A detailed emission schedule and finalized distribution breakdown will be published after governance decisions and final launch preparations.

@@ -1,14 +1,25 @@
 # Add Gauges
 
-Anyone can add a gauge for a pool without holding `veLITH`.
+### Gauge Creation
 
-Adding a gauge will allow voting incentives to be deposited for the given pool.
+Any user can create a gauge for a liquidity pool without the need to hold veLITH. Creating a gauge enables that pool to receive voting incentives from veLITH holders. Once a gauge is active, partners and participants can deposit incentives, and veLITH voters can direct emissions to the pool.
 
-### How to add a gauge?
+* **Voting Incentives**\
+  Gauges allow pools to attract veLITH votes by offering incentives, increasing liquidity depth and visibility.
+* **Emissions Access**\
+  Once a gauge is created, the pool becomes eligible to receive LITH emissions based on weekly governance votes.
+* **Ecosystem Growth**\
+  Gauges make it possible for new pools and projects to participate in Lithos’ incentive structure, strengthening overall liquidity.
 
-1. Connect Wallet
-2. Navigate to "More" -> "Protocols"
-3. Select "Add Gauge"
-4. Select your pool and confirm
+### How to Add a Gauge
 
-*Note: Pool tokens must be whitelisted before a gauge can be added. See [Whitelist Tokens](whitelist-tokens.md) for the whitelisting process.*
+1. Connect your wallet to Lithos.
+2. Navigate to **More → Protocols** in the dashboard.
+3. Select **Add Gauge**.
+4. Choose the pool you want to add a gauge for and confirm the transaction.
+
+### Important Notes
+
+* Pool tokens must be whitelisted before a gauge can be created.
+* To request token whitelisting, follow the process described in **Token Whitelisting**.
+* Once a gauge is live, partners can begin depositing incentives at any point during an Epoch.
