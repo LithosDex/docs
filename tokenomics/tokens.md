@@ -19,7 +19,7 @@ Balancing weekly inflation with sustained locking demand helps preserve `$LITH` 
 
 ## veLITH — ERC-721 governance token in the form of an NFT (non-fungible token)
 
-`veLITH` is the vote-escrowed version of `$LITH`. Users can lock their `$LITH` tokens for up to 4 years to get `veLITH`. The longer the lock, the higher the amount of `veLITH` voting power received.
+`veLITH` is the vote-escrowed version of `$LITH`. Users can lock their `$LITH` tokens for up to 2 years to get `veLITH`. The longer the lock, the higher the amount of `veLITH` voting power received.
 
 To encourage continuous relocking and sustained participation from stakeholders, the `veLITH` balance of users declines over time until it reaches zero at the conclusion of the initial locking period.
 
@@ -34,7 +34,7 @@ To encourage continuous relocking and sustained participation from stakeholders,
 * **Gauge**: Smart contract that distributes token emissions (`$LITH`) to a specific liquidity pool based on votes cast by `veLITH` holders.
 * **Voting Incentives**: Custom amounts of tokens deposited by partners on a gauge to attract votes from `veLITH` holders.
 * **Anti-Dilution Rebase**: `veLITH` holders are protected from dilution through a weekly rebase: 30% of `$LITH` weekly emissions are distributed to `veLITH` holders, as an increase of their locked position (*i.e. cannot be claimed before the unlock of the position*).
-* **Max Lock**: 4 years.
+* **Max Lock**: 2 years.
 * **Flexibility**: `veLITH` positions can be increased, relocked, merged, split, and sold on the secondary market.
 
 ### veLITH Voting Mechanisms
