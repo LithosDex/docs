@@ -1,22 +1,56 @@
 # Gauges & Voting Incentives
 
-The veLITH gauge voting system establishes a dynamic & self-optimizing marketplace for liquidity. Incentives are directed toward the most productive pools — those generating the highest trading volumes and fees — ensuring that liquidity flows where it is most efficiently utilized. This mechanism makes Lithos a resilient, adaptive and capital-efficient DEX.
+### veLITH Gauge Voting
 
-* **Bootstrapping Liquidity**: Protocols can solve the initial cold-start of liquidity by depositing voting incentives.
-* **Liquidity Management**: Protocols can adjust their liquidity levels by modifying their weekly incentives deposit, enabling them to grow and maintain their pools in line with their strategic objectives
-* **Self-Optimizing Liquidity Allocation**: Lithos's ve(3,3) tokenomics structure automatically directs emissions toward pools generating the highest trading volumes and fees.
-* **Bribe-Match Program**: Lithos matches ecosystem partner incentives, doubling the effective bribing power while sharing responsibility for liquidity growth.
+The veLITH gauge voting system creates a dynamic marketplace for liquidity. Incentives flow toward pools that generate the highest trading volumes and fees, ensuring that emissions are allocated where capital is most effectively utilized. This design makes Lithos resilient, adaptive, and capital-efficient.
+
+#### Liquidity Bootstrapping
+
+* Protocols can overcome the cold-start problem by depositing voting incentives.
+* Deposits attract veLITH votes, directing emissions to their liquidity pools from the earliest stages.
+
+#### Liquidity Management
+
+* Partner protocols can adjust liquidity levels by changing their weekly incentive deposits.
+* Incentive flexibility allows pools to expand or contract in line with project strategies.
+
+#### Self-Optimizing Allocation
+
+* Emissions are continuously directed toward the most productive pools.
+* Pools generating strong volume and fee activity naturally receive more incentives, creating an automatic feedback loop.
+
+#### Bribe-Match Program
+
+* Ecosystem partners who qualify receive matched incentives from Lithos.
+* Matching effectively doubles the value of partner incentives while sharing responsibility for liquidity growth.
+
+***
 
 ### Voting Incentives Specifications
 
-* **Voting incentive claim**: `veLITH` holders receive rewards after the following Epoch in the form of a claimable lump sum
-* **Epoch duration**: 1 week (Thursday to Thursday)
-* **Tokens**: Any whitelisted tokens can be deposited as voting incentive
-* **Voting incentive deposits**: Any time during the epoch
-* **Bribe matching**: Qualified ecosystem partners receive matching incentives from Lithos
+**Claiming**
 
-To attract votes from `veLITH` holders, voting incentive must be deposited at least a few hours before the Epoch changes at 00:00 UTC Wednesday-Thursday night.
+* Rewards are distributed as a claimable lump sum after the Epoch concludes.
+* veLITH holders who voted for a pool during that Epoch are eligible to claim.
 
-Earning voting incentives (and trading fees) requires weekly voting.
+**Epoch Duration**
 
-Learn more about [veLITH Voting Mechanisms](../tokenomics/tokens.md#velith-voting-mechanisms).
+* Epochs run weekly from Thursday to Thursday.
+
+**Token Types**
+
+* Any whitelisted tokens may be deposited as voting incentives.
+
+**Deposit Window**
+
+* Incentives may be deposited at any time during the Epoch.
+* To be eligible for the following Epoch, deposits must be made several hours before the reset at 00:00 UTC (Wednesday–Thursday).
+
+**Bribe Matching**
+
+* Qualified ecosystem partners receive matched incentives directly from Lithos.
+
+**Voting Requirement**
+
+* Earning both voting incentives and trading fees requires active voting.
+* Votes must be cast each Epoch to remain eligible.
