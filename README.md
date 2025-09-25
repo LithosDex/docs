@@ -35,6 +35,8 @@ The Foundry Launchpad acts as the entry point for new projects building on Plasm
 
 ### Protocol Design
 
+<figure><img src=".gitbook/assets/2025.09.25 01-1-x-p_v0.3.png" alt=""><figcaption></figcaption></figure>
+
 Lithos combines several mechanisms to build a liquidity system that can last through market cycles:
 
 * **ve(3,3) Incentives:**
