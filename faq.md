@@ -1,6 +1,9 @@
-# FAQ
+---
+cover: .gitbook/assets/backgr05.png
+coverY: -361.8306986231515
+---
 
-<figure><img src=".gitbook/assets/23_FAQ.png" alt=""><figcaption></figcaption></figure>
+# FAQ
 
 #### What is ve(3,3)?
 

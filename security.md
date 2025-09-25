@@ -1,6 +1,9 @@
-# Security
+---
+cover: .gitbook/assets/backgr05.png
+coverY: 0
+---
 
-<figure><img src=".gitbook/assets/22_Security .png" alt=""><figcaption></figcaption></figure>
+# Security
 
 ### Audits
 

@@ -1,8 +1,11 @@
+---
+cover: ../.gitbook/assets/backgr0.1.png
+coverY: -221.92758796532382
+---
+
 # Tokens (LITH, veLITH)
 
 ## LITH — Native utility token of the protocol
-
-<figure><img src="../.gitbook/assets/18-1_LITH Token.png" alt=""><figcaption></figcaption></figure>
 
 ### LITH Utility
 
@@ -20,8 +23,6 @@ Balancing weekly inflation with sustained locking demand helps preserve `$LITH` 
 ***
 
 ## veLITH — ERC-721 governance token in the form of an NFT (non-fungible token)
-
-<figure><img src="../.gitbook/assets/18-2_veLITH Token.png" alt=""><figcaption></figcaption></figure>
 
 `veLITH` is the vote-escrowed version of `$LITH`. Users can lock their `$LITH` tokens for up to 2 years to get `veLITH`. The longer the lock, the higher the amount of `veLITH` voting power received.
 

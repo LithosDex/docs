@@ -1,4 +1,11 @@
+---
+cover: ../.gitbook/assets/backgr0.2.png
+coverY: -363.0736868944416
+---
+
 # Lithos Flywheel
+
+
 
 Lithos is built around a feedback system where trading activity generates revenue that cycles back to participants. Fees, emissions, and incentives are tied together so that liquidity, governance, and demand for LITH reinforce one another.
 
@@ -26,6 +33,8 @@ Lithos is built around a feedback system where trading activity generates revenu
 ***
 
 ### Flow of Value
+
+<figure><img src="../.gitbook/assets/2025.09.25 2-1-s-c_v0.1.png" alt=""><figcaption></figcaption></figure>
 
 1. **LITH Emissions → Liquidity Providers**\
    Liquidity providers stake LP tokens in gauges and earn LITH emissions.

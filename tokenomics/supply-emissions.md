@@ -1,6 +1,9 @@
-# Initial Supply and Emissions Schedule
+---
+cover: ../.gitbook/assets/backgr0.3.png
+coverY: 358.0443651198368
+---
 
-<figure><img src="../.gitbook/assets/19_Initial Supply and Emissions Schedule .png" alt=""><figcaption></figcaption></figure>
+# Initial Supply and Emissions Schedule
 
 ## Initial Supply
 
