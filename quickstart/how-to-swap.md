@@ -1,6 +1,9 @@
-# How To Swap
+---
+cover: ../.gitbook/assets/backgr05.png
+coverY: 0
+---
 
-<figure><img src="../.gitbook/assets/02_How to Swap.png" alt=""><figcaption></figcaption></figure>
+# How To Swap
 
 Swapping on Lithos works like any other AMM, but runs on Plasma for faster and cheaper transactions.
 
