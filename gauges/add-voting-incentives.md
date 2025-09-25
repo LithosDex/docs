@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/backgr0.1.png
-coverY: -364.52065272819993
----
-
 # Add Voting Incentives
 
 ### Voting Incentives

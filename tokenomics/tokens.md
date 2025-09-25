@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/backgr0.1.png
-coverY: -221.92758796532382
----
-
 # Tokens (LITH, veLITH)
 
 ## LITH — Native utility token of the protocol

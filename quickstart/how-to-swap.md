@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/backgr05.png
-coverY: -296.9913309535951
----
-
 # How To Swap
 
 Swapping on Lithos works like any other AMM, but runs on Plasma for faster and cheaper transactions.

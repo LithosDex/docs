@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/backgr0.1.png
-coverY: -178.13765182186233
----
-
 # How to Vote & Earn Rewards
 
 Voting with veLITH determines how LITH emissions are allocated. Voters also earn a mix of fees, incentives, and anti-dilution rebases.

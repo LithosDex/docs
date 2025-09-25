@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/backgr05.png
-coverY: 0
----
-
 # Security
 
 ### Audits

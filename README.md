@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/backgr0.1.png
-coverY: 0
----
-
 # Lithos Overview
 
 Lithos is a **3,3 DEX** built on the Plasma blockchain. It is designed to serve as the central liquidity layer for Plasma, providing traders, liquidity providers, and governance participants with a sustainable platform that grows alongside the ecosystem.

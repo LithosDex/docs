@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/backgr0.3.png
-coverY: 358.0443651198368
----
-
 # Initial Supply and Emissions Schedule
 
 ## Initial Supply

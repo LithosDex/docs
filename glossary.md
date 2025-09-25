@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/backgr05.png
-coverY: -117.49107598164203
----
-
 # Glossary
 
 **AMM (Automated Market Maker)**\

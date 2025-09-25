@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/backgr04.png
-coverY: 118.64482406935238
----
-
 # Whitelist Tokens
 
 ### Token Whitelisting

@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/backgr0.1.png
-coverY: -365.13895971443145
----
-
 # Liquidity Provision
 
 ### Liquidity Pools

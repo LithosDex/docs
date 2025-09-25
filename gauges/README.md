@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/backgr0.3.png
-coverY: -362.92070372259053
----
-
 # Gauges & Voting Incentives
 
 ### veLITH Gauge Voting

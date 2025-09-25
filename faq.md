@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/backgr05.png
-coverY: -361.8306986231515
----
-
 # FAQ
 
 #### What is ve(3,3)?

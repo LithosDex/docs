@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/backgr0.2.png
-coverY: 0
----
-
 # Add Gauges
 
 ### Gauge Creation

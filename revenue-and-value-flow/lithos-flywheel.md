@@ -1,11 +1,4 @@
----
-cover: ../.gitbook/assets/backgr0.2.png
-coverY: -363.0736868944416
----
-
 # Lithos Flywheel
-
-
 
 Lithos is built around a feedback system where trading activity generates revenue that cycles back to participants. Fees, emissions, and incentives are tied together so that liquidity, governance, and demand for LITH reinforce one another.
 
