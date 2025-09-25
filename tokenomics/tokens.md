@@ -2,6 +2,8 @@
 
 ## LITH — Native utility token of the protocol
 
+<figure><img src="../.gitbook/assets/18-1_LITH Token.png" alt=""><figcaption></figcaption></figure>
+
 ### LITH Utility
 
 * **Liquidity Incentives**: `$LITH` is distributed as emissions to attract liquidity providers on Lithos, provide optimal trading conditions for end users and drive revenue for Lithos.
@@ -15,9 +17,11 @@ Balancing weekly inflation with sustained locking demand helps preserve `$LITH` 
 2. This liquidity generates organic trading fees and attracts external voting incentive deposits from partner protocols seeking deeper liquidity.
 3. To capture these revenue flows, `$LITH` must be locked into `veLITH`.
 
----
+***
 
 ## veLITH — ERC-721 governance token in the form of an NFT (non-fungible token)
+
+<figure><img src="../.gitbook/assets/18-2_veLITH Token.png" alt=""><figcaption></figcaption></figure>
 
 `veLITH` is the vote-escrowed version of `$LITH`. Users can lock their `$LITH` tokens for up to 2 years to get `veLITH`. The longer the lock, the higher the amount of `veLITH` voting power received.
 
@@ -33,7 +37,7 @@ To encourage continuous relocking and sustained participation from stakeholders,
 * **ve(3,3) Concept**: Combination of the anti-dilution rebase mechanism introduced by Olympus DAO and Curve's vote-escrowed model. The ve(3,3) concept was initiated by Andre Cronje in the original Solidly DEX.
 * **Gauge**: Smart contract that distributes token emissions (`$LITH`) to a specific liquidity pool based on votes cast by `veLITH` holders.
 * **Voting Incentives**: Custom amounts of tokens deposited by partners on a gauge to attract votes from `veLITH` holders.
-* **Anti-Dilution Rebase**: `veLITH` holders are protected from dilution through a weekly rebase: 30% of `$LITH` weekly emissions are distributed to `veLITH` holders, as an increase of their locked position (*i.e. cannot be claimed before the unlock of the position*).
+* **Anti-Dilution Rebase**: `veLITH` holders are protected from dilution through a weekly rebase: 30% of `$LITH` weekly emissions are distributed to `veLITH` holders, as an increase of their locked position (_i.e. cannot be claimed before the unlock of the position_).
 * **Max Lock**: 2 years.
 * **Flexibility**: `veLITH` positions can be increased, relocked, merged, split, and sold on the secondary market.
 
@@ -48,12 +52,12 @@ You only earn revenue from the pools you've actively voted on during that period
 * All vote weights reset at the start of each new epoch; voting is required every epoch to maintain eligibility for rewards.
 * Votes can be modified or reset at any time.
 
----
+***
 
 ## Token Addresses
 
-*Token addresses will be published upon deployment to Plasma blockchain.*
+_Token addresses will be published upon deployment to Plasma blockchain._
 
----
+***
 
 Lithos represents a focused approach to ve(3,3) tokenomics, prioritizing simplicity and effectiveness over complex token structures while maintaining the proven incentive alignment that makes the model successful.

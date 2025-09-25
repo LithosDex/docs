@@ -1,17 +1,19 @@
 # Initial Supply and Emissions Schedule
 
+<figure><img src="../.gitbook/assets/19_Initial Supply and Emissions Schedule .png" alt=""><figcaption></figcaption></figure>
+
 ## Initial Supply
 
-| Allocation | Percentage | Amount | Status |
-|------------|------------|---------|--------|
-| Initial LP | 2.00% | 1,000,000 | Unlocked |
-| Liquidity Incentives | 5.00% | 2,500,000 | Unlocked |
-| MM + CEX | 5.00% | 2,500,000 | Unlocked |
-| Ecosystem Growth Fund | 10.00% | 5,000,000 | Unlocked |
-| Airdrop | 5.00% | 2,500,000 | Locked |
-| Public Goods Fund | 40.00% | 20,000,000 | Locked |
-| Foundation | 19.00% | 9,500,000 | Locked |
-| Team | 14.00% | 7,000,000 | Unlocked |
+| Allocation            | Percentage | Amount     | Status   |
+| --------------------- | ---------- | ---------- | -------- |
+| Initial LP            | 2.00%      | 1,000,000  | Unlocked |
+| Liquidity Incentives  | 5.00%      | 2,500,000  | Unlocked |
+| MM + CEX              | 5.00%      | 2,500,000  | Unlocked |
+| Ecosystem Growth Fund | 10.00%     | 5,000,000  | Unlocked |
+| Airdrop               | 5.00%      | 2,500,000  | Locked   |
+| Public Goods Fund     | 40.00%     | 20,000,000 | Locked   |
+| Foundation            | 19.00%     | 9,500,000  | Locked   |
+| Team                  | 14.00%     | 7,000,000  | Unlocked |
 
 **Total Initial Supply: 50,000,000 LITH**
 
@@ -47,7 +49,7 @@ Foundation allocation for operational funding and strategic reserves. A signific
 
 Team allocation with 1-year cliff and 2-year vesting schedule to ensure long-term commitment and alignment with protocol success. Covers core team compensation and retention incentives.
 
----
+***
 
 ## **Emissions**
 
@@ -56,15 +58,17 @@ Team allocation with 1-year cliff and 2-year vesting schedule to ensure long-ter
 Unlike traditional DEX launches, Lithos employs a unique phased approach:
 
 **Phase 1: Protocol-Owned Liquidity Period**
-- **No token emissions initially**
-- POL provides base liquidity for core trading pairs
-- Foundation veLITH positions generate revenue for Ignition Program
-- Establishes trading volume and fee generation
+
+* **No token emissions initially**
+* POL provides base liquidity for core trading pairs
+* Foundation veLITH positions generate revenue for Ignition Program
+* Establishes trading volume and fee generation
 
 **Phase 2: Community Governance Activation**
-- LITH emissions begin based on community governance decision
-- veLITH holders direct emission rewards to liquidity pools
-- Full ve(3,3) mechanics activated
+
+* LITH emissions begin based on community governance decision
+* veLITH holders direct emission rewards to liquidity pools
+* Full ve(3,3) mechanics activated
 
 ### **ve(3,3) Dynamics**
 
@@ -77,24 +81,24 @@ Once emissions begin, all stakeholders are aligned through ve(3,3) dynamics:
 
 ### **Emissions Specifications**
 
-*Emissions parameters will be determined by community governance when the emission phase begins. Initial parameters will be proposed based on:*
+_Emissions parameters will be determined by community governance when the emission phase begins. Initial parameters will be proposed based on:_
 
 * **Weekly emissions**: To be determined by governance
 * **Weekly emissions decay**: Community-controlled parameter
-  * *Emissions for liquidity providers*: Majority allocation
-  * *Weekly veLITH rebase*: Anti-dilution protection for lockers
-  * *Protocol development allocation*: Minimal percentage for ongoing development
+  * _Emissions for liquidity providers_: Majority allocation
+  * _Weekly veLITH rebase_: Anti-dilution protection for lockers
+  * _Protocol development allocation_: Minimal percentage for ongoing development
 * **Maximum supply**: To be determined through governance process
 
 ### **Sustainable Tokenomics**
 
 Lithos prioritizes long-term sustainability over short-term incentives:
 
-- **Large permanent locks**: Significant supply permanently committed to long-term programs
-- **Revenue-driven value**: Ignition Program creates buying pressure using real protocol revenue
-- **Community control**: Governance determines emission schedules and parameters
-- **Aligned incentives**: All participants benefit from protocol success and trading volume growth
+* **Large permanent locks**: Significant supply permanently committed to long-term programs
+* **Revenue-driven value**: Ignition Program creates buying pressure using real protocol revenue
+* **Community control**: Governance determines emission schedules and parameters
+* **Aligned incentives**: All participants benefit from protocol success and trading volume growth
 
----
+***
 
-*Detailed emission schedules and distribution parameters will be published following community governance decisions and protocol launch preparations.*
+_Detailed emission schedules and distribution parameters will be published following community governance decisions and protocol launch preparations._

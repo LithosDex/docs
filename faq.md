@@ -1,5 +1,7 @@
 # FAQ
 
+<figure><img src=".gitbook/assets/23_FAQ.png" alt=""><figcaption></figcaption></figure>
+
 #### What is ve(3,3)?
 
 ve(3,3) is the tokenomics model Lithos is built on. It combines Curve’s vote-escrow system (locking tokens for voting power) with Olympus DAO’s (3,3) game theory for aligned incentives. The result is a system where traders, liquidity providers, and governance participants all benefit when they cooperate for long-term growth.

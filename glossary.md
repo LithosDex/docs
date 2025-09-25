@@ -1,5 +1,7 @@
 # Glossary
 
+<figure><img src=".gitbook/assets/24_Glossary.png" alt=""><figcaption></figcaption></figure>
+
 **AMM (Automated Market Maker)**\
 A type of decentralized exchange mechanism where trades are executed against liquidity pools rather than order books.
 

@@ -1,5 +1,7 @@
 # Whitelist Tokens
 
+<figure><img src="../.gitbook/assets/09_Whitelist Tokens.png" alt=""><figcaption></figcaption></figure>
+
 ### Token Whitelisting
 
 All new tokens must be whitelisted before being listed on Lithos. The purpose of the whitelist is to protect users, filter out scams or illegitimate assets, and ensure that only trustworthy projects gain access to Lithos liquidity. By maintaining control over the listing process, the protocol preserves the security and credibility of the broader ecosystem.\

@@ -1,5 +1,7 @@
 # Liquidity Provision
 
+<figure><img src=".gitbook/assets/07_Liquidity Provision.png" alt=""><figcaption></figcaption></figure>
+
 ### Liquidity Pools
 
 Lithos provides a range of liquidity pool designs tailored to different asset types and trading strategies. The pool architecture combines proven AMM models with dynamic fee structures and a streamlined user interface. Pools are designed to support both stablecoin swaps with minimal slippage and volatile pairs focused on price discovery, giving participants multiple ways to engage with the protocol.

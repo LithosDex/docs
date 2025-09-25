@@ -1,5 +1,7 @@
 # Add Voting Incentives
 
+<figure><img src="../.gitbook/assets/11_Add Voting Incentives.png" alt=""><figcaption></figcaption></figure>
+
 ### Voting Incentives
 
 Anyone can add voting incentives to a pool once a gauge has been created. Incentives must be deposited in whitelisted tokens to qualify. By offering incentives, projects and participants encourage veLITH holders to direct their votes toward specific pools. The more incentives deposited into a gauge, the more LITH emissions that pool is likely to receive in the following Epoch.\

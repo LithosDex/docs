@@ -1,5 +1,7 @@
 # LITH Tokenomics
 
+<figure><img src="../.gitbook/assets/17_LITH Tokenomics.png" alt=""><figcaption></figcaption></figure>
+
 LITH is the governance and utility token of Lithos. The tokenomics are designed around the **ve(3,3) model**, aligning incentives across all participants and creating sustainable growth for the Plasma ecosystem.
 
 **Community Ownership**

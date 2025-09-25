@@ -1,5 +1,7 @@
 # Security
 
+<figure><img src=".gitbook/assets/22_Security .png" alt=""><figcaption></figcaption></figure>
+
 ### Audits
 
 Lithos is built on the Thena V2 codebase, a well-audited and battle-tested framework derived from multiple generations of ve(3,3) DEX development. By adopting this lineage without modifications, Lithos inherits all security properties and audit assurances from the upstream protocols.

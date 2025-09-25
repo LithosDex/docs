@@ -1,5 +1,7 @@
 # Add Gauges
 
+<figure><img src="../.gitbook/assets/10_Add Gauges.png" alt=""><figcaption></figcaption></figure>
+
 ### Gauge Creation
 
 Any user can create a gauge for a liquidity pool without the need to hold veLITH. Creating a gauge enables that pool to receive voting incentives from veLITH holders. Once a gauge is active, partners and participants can deposit incentives, and veLITH voters can direct emissions to the pool.
