@@ -1,5 +1,7 @@
 # How to Provide Liquidity
 
+<figure><img src="../.gitbook/assets/03_How to Provide Liquidity.png" alt=""><figcaption></figcaption></figure>
+
 Providing liquidity on Lithos allows you to earn trading fees, emissions, and incentives while supporting healthy markets.
 
 ### Step-by-Step Guide

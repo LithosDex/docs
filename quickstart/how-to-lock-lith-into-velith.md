@@ -1,5 +1,7 @@
 # How to Lock LITH into veLITH
 
+<figure><img src="../.gitbook/assets/04_How to Lock LITH into veLITH .png" alt=""><figcaption></figcaption></figure>
+
 Locking LITH creates veLITH, which grants voting power and access to governance rewards.
 
 ### Step-by-Step Guide
