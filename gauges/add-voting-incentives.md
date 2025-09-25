@@ -1,6 +1,9 @@
-# Add Voting Incentives
+---
+cover: ../.gitbook/assets/backgr0.1.png
+coverY: -364.52065272819993
+---
 
-<figure><img src="../.gitbook/assets/11_Add Voting Incentives.png" alt=""><figcaption></figcaption></figure>
+# Add Voting Incentives
 
 ### Voting Incentives
 

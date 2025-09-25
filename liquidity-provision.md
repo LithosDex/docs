@@ -1,6 +1,9 @@
-# Liquidity Provision
+---
+cover: .gitbook/assets/backgr0.1.png
+coverY: -365.13895971443145
+---
 
-<figure><img src=".gitbook/assets/07_Liquidity Provision.png" alt=""><figcaption></figcaption></figure>
+# Liquidity Provision
 
 ### Liquidity Pools
 

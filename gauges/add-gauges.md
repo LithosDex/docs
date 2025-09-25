@@ -1,6 +1,9 @@
-# Add Gauges
+---
+cover: ../.gitbook/assets/backgr0.2.png
+coverY: 0
+---
 
-<figure><img src="../.gitbook/assets/10_Add Gauges.png" alt=""><figcaption></figcaption></figure>
+# Add Gauges
 
 ### Gauge Creation
 

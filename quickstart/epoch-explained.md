@@ -1,6 +1,9 @@
-# Epoch Explained
+---
+cover: ../.gitbook/assets/backgr05.png
+coverY: 0
+---
 
-<figure><img src="../.gitbook/assets/06_Epoch Explained.png" alt=""><figcaption></figcaption></figure>
+# Epoch Explained
 
 Epochs are the weekly cycle that governs voting, incentives, and emissions in Lithos.\
 

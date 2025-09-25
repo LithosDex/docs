@@ -9,6 +9,8 @@ Swapping on Lithos works like any other AMM, but runs on Plasma for faster and c
 
 ### Step-by-Step Guide
 
+<figure><img src="../.gitbook/assets/2025.09.25 5-2-s-c_v0.1.png" alt=""><figcaption></figcaption></figure>
+
 **1. Connect Wallet**
 
 * Open the Lithos app and connect a supported wallet.

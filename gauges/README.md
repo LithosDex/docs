@@ -1,10 +1,13 @@
-# Gauges & Voting Incentives
+---
+cover: ../.gitbook/assets/backgr0.3.png
+coverY: -362.92070372259053
+---
 
-<figure><img src="../.gitbook/assets/08_Gauges_Voting Incentives.png" alt=""><figcaption></figcaption></figure>
+# Gauges & Voting Incentives
 
 ### veLITH Gauge Voting
 
-The veLITH gauge voting system creates a dynamic marketplace for liquidity. Incentives flow toward pools that generate the highest trading volumes and fees, ensuring that emissions are allocated where capital is most effectively utilized. This design makes Lithos resilient, adaptive, and capital-efficient.
+The veLITH gauge voting system creates a dynamic marketplace for liquidity. Incentives flow toward pools that generate the highest trading volumes and fees, ensuring that emissions are allocated where capital is most effectively utilized.&#x20;
 
 #### Liquidity Bootstrapping
 
@@ -28,7 +31,7 @@ The veLITH gauge voting system creates a dynamic marketplace for liquidity. Ince
 
 ***
 
-### Voting Incentives Specifications
+### Voting Incentives&#x20;
 
 **Claiming**
 
