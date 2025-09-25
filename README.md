@@ -120,35 +120,3 @@ The revenue framework of Lithos is built for sustainability and long-term value 
 * A share of protocol revenue funds the Ignition Program.
 * Revenue is used to purchase LITH from the open market, reducing circulating supply.
 * Bought-back tokens are redistributed to veLITH holders, rewarding governance participants and driving sustained demand for LITH.
-
-The combined system produces steady revenue flows, recycles value into the community, and embeds deflationary pressure into the token economy.
-
-***
-
-### Security
-
-Lithos prioritizes security and reliability by building on audited infrastructure and enforcing transparent, decentralized control.
-
-**Audited Codebase**
-
-* Core contracts are forked directly from Thena.fi.
-* Thena.fi has undergone multiple independent audits, providing a tested foundation for Lithos.
-* Using a proven codebase reduces risk for traders, liquidity providers, and governance participants.
-
-**Zero Modifications**
-
-* Security-critical contracts remain unchanged from the audited source.
-* Preserving the original design ensures that audit guarantees are not compromised.
-* Stability of the code builds confidence for both retail and institutional users.
-
-**On-Chain Transparency**
-
-* All protocol operations are executed and recorded directly on-chain.
-* Gauge emissions, buybacks, and revenue distributions are publicly visible and verifiable.
-* Full transparency prevents hidden actions and builds trust in the system.
-
-**Decentralized Governance**
-
-* Control of emissions and protocol direction rests with veLITH holders.
-* No single entity can monopolize decision-making or redirect rewards.
-* The governance model distributes influence across active community members, reducing systemic risk.
