@@ -4,6 +4,8 @@ Providing liquidity on Lithos allows you to earn trading fees, emissions, and in
 
 ### Step-by-Step Guide
 
+<figure><img src="../.gitbook/assets/2025.09.26 h-t-p-l-q_v0.1.png" alt=""><figcaption></figcaption></figure>
+
 **1. Connect Wallet**\
 Open the Lithos app and connect your wallet. Ensure your network is set to Plasma.
 

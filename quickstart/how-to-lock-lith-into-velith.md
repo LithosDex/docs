@@ -4,6 +4,8 @@ Locking LITH creates veLITH, which grants voting power and access to governance 
 
 ### Step-by-Step Guide
 
+<figure><img src="../.gitbook/assets/2025.09.26 h-t-l-l_v0.1.png" alt=""><figcaption></figcaption></figure>
+
 **1. Go to Governance**\
 Navigate to the **Governance** section in the Lithos app.
 
