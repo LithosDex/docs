@@ -2,6 +2,8 @@
 
 Voting with veLITH determines how LITH emissions are allocated. Voters also earn a mix of fees, incentives, and anti-dilution rebases.
 
+<figure><img src="../.gitbook/assets/2025.09.26 h-t-v-e_v0.1.png" alt=""><figcaption></figcaption></figure>
+
 ### Step-by-Step
 
 **1. Open Gauges**\

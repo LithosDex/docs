@@ -6,6 +6,8 @@ Lithos provides a range of liquidity pool designs tailored to different asset ty
 
 ### Lithos Pool Types
 
+<figure><img src=".gitbook/assets/2025.09.26 l-t-h-p-t_v0.1.png" alt=""><figcaption></figcaption></figure>
+
 **Stable Pools**
 
 * Designed for correlated assets such as USDT/USDC or USDAI/sUSDAI.
