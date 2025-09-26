@@ -1,17 +1,6 @@
 # Initial Supply and Emissions Schedule
 
-## Initial Supply
-
-| Allocation            | Percentage | Amount     | Status   |
-| --------------------- | ---------- | ---------- | -------- |
-| Initial LP            | 2.00%      | 1,000,000  | Unlocked |
-| Liquidity Incentives  | 5.00%      | 2,500,000  | Unlocked |
-| MM + CEX              | 5.00%      | 2,500,000  | Unlocked |
-| Ecosystem Growth Fund | 10.00%     | 5,000,000  | Unlocked |
-| Airdrop               | 5.00%      | 2,500,000  | Locked   |
-| Public Goods Fund     | 40.00%     | 20,000,000 | Locked   |
-| Foundation            | 19.00%     | 9,500,000  | Locked   |
-| Team                  | 14.00%     | 7,000,000  | Unlocked |
+<figure><img src="../.gitbook/assets/2025.09.26 i-n-s-p-l_v0.1.png" alt=""><figcaption></figcaption></figure>
 
 **Total Initial Supply: 50,000,000 LITH**
 
