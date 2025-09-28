@@ -1,7 +1,5 @@
 # Initial Supply and Emissions Schedule
 
-<figure><img src="../.gitbook/assets/2025.09.26 i-n-s-p-l_v0.1.png" alt=""><figcaption></figcaption></figure>
-
 **Total Initial Supply: 50,000,000 LITH**
 
 ### **Initial LP (2% - 1,000,000 LITH)**
@@ -18,7 +16,7 @@ Market maker partnerships and centralized exchange listings to ensure proper pri
 
 ### **Ecosystem Growth Fund (10% - 5,000,000 LITH)**
 
-Unlocked allocation for strategic partnerships, institutional incentives, and liquid funding opportunities. Supports liquidity partner deals and provides flexible capital for ecosystem expansion initiatives.
+Ecosystem growth fund is used primarly for marketing partners, liquidity incentives for larger liquid funds and ve groups.
 
 ### **Airdrop (5% - 2,500,000 LITH)**
 

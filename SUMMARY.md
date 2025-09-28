@@ -29,7 +29,6 @@
 
 ## Developer Documentation
 
-* [API/SDK (Coming Soon)](developer-documentation/api-sdk-coming-soon.md)
 * [Guide For Partners (Coming Soon)](developer-documentation/guide-for-partners-coming-soon.md)
 
 ## Tokenomics
