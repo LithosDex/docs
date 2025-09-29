@@ -1,5 +1,7 @@
 # Initial Supply and Emissions Schedule
 
+<figure><img src="../.gitbook/assets/2025.09.28 i-n-s-p-l_v0.2.png" alt=""><figcaption></figcaption></figure>
+
 **Total Initial Supply: 50,000,000 LITH**
 
 ### **Initial LP (2% - 1,000,000 LITH)**
