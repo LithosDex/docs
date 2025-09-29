@@ -11,6 +11,14 @@ Unlike traditional DEXs that rely heavily on short-term liquidity incentives, Li
 
 Lithos functions as Plasma’s liquidity engine, integrating trading, governance, and ecosystem expansion into a unified system. Plasma mainnet contract addresses are listed in [Developer Documentation → Deployed Contracts](developer-documentation/deployed-contracts.md).
 
+### Official Links
+
+- [Website](https://lithos.to/)
+- [GitHub](https://github.com/LithosProtocol)
+- [X (Twitter)](https://x.com/lithos_to)
+- [Discord](https://discord.gg/lithos)
+- [Telegram](https://t.me/lithos_official)
+
 ### Core Products
 
 #### Lithos DEX
