@@ -38,6 +38,10 @@ Team allocation with 1-year cliff and 2-year vesting schedule to ensure long-ter
 
 ***
 
+All tranches of locked tokens will be transparently verifiable post-launch.
+
+***
+
 ## **Emissions**
 
 ### **Phased Launch Strategy**
@@ -85,7 +89,3 @@ Lithos prioritizes long-term sustainability over short-term incentives:
 * **Revenue-driven value**: Ignition Program creates buying pressure using real protocol revenue
 * **Community control**: Governance determines emission schedules and parameters
 * **Aligned incentives**: All participants benefit from protocol success and trading volume growth
-
-***
-
-_Detailed emission schedules and distribution parameters will be published following community governance decisions and protocol launch preparations._
