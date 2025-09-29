@@ -13,10 +13,12 @@ Lithos is distributing **5% of the total LITH supply** through Genesis Bootstrap
 
 ***
 
+<figure><img src="../.gitbook/assets/2025.09.29 g-e-n-e_v0.7.png" alt=""><figcaption></figcaption></figure>
+
 ### Stage 1 – Stable & XPL Pools
 
 * **Dates:** Oct 1 – Dec 1, 2025
-* **Pools:** XPL/USDT, USDe/USDT
+* **Pools:** XPL/USDT0, USDe/USDT0
 * Duration: 2 months
 * Withdraw anytime (rewards adjust based on time in pool).
 
@@ -41,6 +43,8 @@ Bootstrapping runs beyond TGE, with the LITH pool giving the strongest upside fo
 * **LITH pool = highest rewards.**
 * Fees accrue daily and display on the rewards page.
 * Rewards are split from a fixed 5% pool — no fixed conversion rate.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-29 at 13.02.12.png" alt=""><figcaption></figcaption></figure>
 
 _Referral program is separate and not included here._
 
