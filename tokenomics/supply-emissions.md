@@ -72,14 +72,17 @@ Once emissions begin, all stakeholders are aligned through ve(3,3) dynamics:
 
 ### **Emissions Specifications**
 
-_Emissions parameters will be determined by community governance when the emission phase begins. Initial parameters will be proposed based on:_
+Lithos mirrors Thena’s epoch-based emission model with parameters locked in at launch:
 
-* **Weekly emissions**: To be determined by governance
-* **Weekly emissions decay**: Community-controlled parameter
-  * _Emissions for liquidity providers_: Majority allocation
-  * _Weekly veLITH rebase_: Anti-dilution protection for lockers
-  * _Protocol development allocation_: Minimal percentage for ongoing development
-* **Maximum supply**: To be determined through governance process
+* **Initial weekly emissions:** `2,600,000 LITH` minted for Epoch 1.
+* **Decay schedule:** Emissions decrease by `1%` each epoch, compounding week over week.
+* **Tail emissions:** Once the decay schedule reaches `0.2%` of the circulating supply, emissions flatten to that floor to preserve long-term incentives.
+* **Distribution per epoch:**
+  * `67.5%` to liquidity providers staking eligible LP tokens.
+  * `30%` distributed as the veLITH anti-dilution rebase.
+  * `2.5%` routed to the developer wallet for ongoing protocol operations.
+
+Governance retains authority to adjust allocations through future proposals, but any change must respect the anti-dilution guarantees already in place for lockers.
 
 ### **Sustainable Tokenomics**
 
