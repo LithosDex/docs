@@ -30,6 +30,7 @@
 ## Developer Documentation
 
 * [Guide For Partners (Coming Soon)](developer-documentation/guide-for-partners-coming-soon.md)
+* [Deployed Contracts](developer-documentation/deployed-contracts.md)
 
 ## Tokenomics
 

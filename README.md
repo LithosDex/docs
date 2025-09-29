@@ -9,7 +9,7 @@ Unlike traditional DEXs that rely heavily on short-term liquidity incentives, Li
 * veLITH holders shape the direction of the protocol, deciding how liquidity incentives are distributed.
 * New projects can bootstrap liquidity and community trust through the Foundry Launchpad.
 
-Lithos functions as Plasma’s liquidity engine, integrating trading, governance, and ecosystem expansion into a unified system.
+Lithos functions as Plasma’s liquidity engine, integrating trading, governance, and ecosystem expansion into a unified system. Plasma mainnet contract addresses are listed in [Developer Documentation → Deployed Contracts](developer-documentation/deployed-contracts.md).
 
 ### Core Products
 
