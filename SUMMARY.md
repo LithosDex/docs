@@ -36,6 +36,7 @@
 * [LITH Tokenomics](tokenomics/README.md)
 * [Tokens (LITH, veLITH)](tokenomics/tokens.md)
 * [Initial Supply and Emissions Schedule](tokenomics/supply-emissions.md)
+* [Genesis Bootstrapping](tokenomics/genesis-bootstrapping.md)
 
 ## Revenue & Value Flow
 
