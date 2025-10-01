@@ -13,11 +13,11 @@ Lithos functions as Plasma’s liquidity engine, integrating trading, governance
 
 ### Official Links
 
-- [Website](https://lithos.to/)
-- [GitHub](https://github.com/orgs/LithosDex)
-- [X (Twitter)](https://x.com/lithos_to)
-- [Discord](https://discord.gg/lithos)
-- [Telegram](https://t.me/lithos_official)
+* [Website](https://lithos.to/)
+* [GitHub](https://github.com/LithosDex)
+* [X (Twitter)](https://x.com/lithos_to)
+* [Discord](https://discord.gg/lithos)
+* [Telegram](https://t.me/lithos_official)
 
 ### Core Products
 
