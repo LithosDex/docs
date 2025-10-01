@@ -31,6 +31,7 @@
 
 * [Guide For Partners (Coming Soon)](developer-documentation/guide-for-partners-coming-soon.md)
 * [Deployed Contracts](developer-documentation/deployed-contracts.md)
+* [RouterV2 Contract Reference](developer-documentation/router-v2.md)
 
 ## Tokenomics
 
