@@ -31,7 +31,9 @@ Boosts stack multiplicatively with the base tier multiplier. For example, a Laun
 
 At the end of the four-week cycle, all qualifying locks are aggregated, weighted by their final multiplier, and used to apportion the Ignition bonus pool. Participants receive a proportional share of the pool based on their percentage of the total weighted veLITH. Holding 5% of the weighted total results in 5% of the Ignition bonus.
 
-Ignition is funded by protocol revenue buybacks, with up to 15% of emissions redirected to the bonus pool each cycle. This structure amplifies rewards for active lockers while introducing additional buy pressure for LITH on the open market.
+Ignition is fueled by LITH buybacks sourced from converted bribes and fees. This design boosts rewards for committed lockers while simultaneously creating sustained buy pressure for LITH on the market.
+
+To promote fairness and prevent any single participant from taking an outsized share, no individual lock may claim more than 15% of the bonus allocated to its class.
 
 ## Foundation Share
 
