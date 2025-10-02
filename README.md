@@ -60,6 +60,7 @@ Lithos combines several mechanisms to build a liquidity system that can last thr
   * Revenue from trading fees and protocol positions is used to buy back LITH on the open market.
   * These tokens are redistributed to veLITH holders, creating a feedback loop of rewards.
   * Ignition not only incentivizes governance participation but also applies deflationary pressure on the token supply.
+  * Learn more about the [Ignition Program cycle, tiers, and boosts](tokenomics/ignition-program.md).
 * **Multi-AMM Pools:**
   * **Stable Pools:** Optimized for correlated assets (e.g., USDC/USDT), offering minimal slippage.
   * **Volatile Pools:** For uncorrelated assets, allowing price discovery while still generating fees.
