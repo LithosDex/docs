@@ -53,3 +53,4 @@
 
 * [FAQ](faq.md)
 * [Glossary](glossary.md)
+* [Brand Assets](brand-assets.md)
