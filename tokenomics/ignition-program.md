@@ -5,7 +5,7 @@ Ignition is the protocol's recurring buyback-and-distribute initiative that rewa
 ## Cycle & Qualification
 
 * **Cadence:** Each Ignition cycle runs for four weeks.
-* **Eligibility:** Users must create a new veLITH lock worth at least `10,000` LITH during the active cycle. Existing positions do not qualify unless they meet the minimum via a new lock.
+* **Eligibility:** Users must create a new veLITH lock worth at least `3,333` LITH during the active cycle. Existing positions do not qualify unless they meet the minimum via a new lock.
 
 ## Tier Structure
 
@@ -13,9 +13,9 @@ Participants are placed into tiers based on the size of their qualifying lock. E
 
 | Tier | Lock Size (veLITH) | Multiplier |
 | --- | --- | --- |
-| Spark | 10,000–24,999 | 1.0× |
-| Thruster | 25,000–49,999 | 1.5× |
-| Launch | 50,000+ | 2.0× |
+| Spark | 3,333–8,332 | 1.0× |
+| Thruster | 8,333–16,666 | 1.5× |
+| Launch | 16,667+ | 2.0× |
 
 ## Boost Modifiers
 
@@ -29,7 +29,7 @@ Boosts stack multiplicatively with the base tier multiplier. For example, a Laun
 
 ## Distribution & Rewards
 
-At the end of the four-week cycle, all qualifying locks are aggregated, weighted by their final multiplier, and used to apportion the Ignition bonus pool. Participants receive a proportional share of the pool based on their percentage of the total weighted veLITH. Holding 5% of the weighted total results in 5% of the Ignition bonus.
+At the end of the four-week cycle, all qualifying locks are aggregated, weighted by their final multiplier, and used to apportion the Ignition bonus pool. Participants receive a proportional share of the pool based on their percentage of the total weighted veLITH. Holding 5% of the weighted total results in 5% of the Ignition bonus, with up to 15% of emissions routed to the pool each cycle.
 
 Ignition is fueled by LITH buybacks sourced from converted bribes and fees. This design boosts rewards for committed lockers while simultaneously creating sustained buy pressure for LITH on the market.
 
