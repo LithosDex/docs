@@ -6,8 +6,8 @@ Lithos is built on the Thena V2 codebase, a well-audited and battle-tested frame
 
 **Audit History**
 
-* **Thena V2** – Audited by OpenZeppelin, one of the most reputable firms in blockchain security.
-* **Thena V1** – Audited by PeckShield.
+* **Thena V2** – Audited by OpenZeppelin ([retro audit recap](https://blog.openzeppelin.com/retro-thena-audit)).
+* **Thena V1** – Audited by PeckShield ([full report PDF](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Thena-v1.0.pdf)).
 * **Velodrome** – Adapted from the Solidly codebase and reviewed through both a security audit and a Code4rena bug bounty contest.
 * **Solidly AMM** – Audited by PeckShield, which identified five low-severity and one informational finding. No security incidents have occurred since its deployment on Fantom in February 2022.
 
