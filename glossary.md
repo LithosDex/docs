@@ -28,7 +28,7 @@ A user who deposits tokens into a pool to provide liquidity for trading. In retu
 The native utility token of Lithos. It is used for liquidity incentives, emissions, and governance when locked as veLITH.
 
 **veLITH**\
-The vote-escrowed form of LITH, issued as an NFT when LITH is locked for up to 4 years. veLITH gives governance rights and access to protocol rewards.
+The vote-escrowed form of LITH, issued as an NFT when LITH is locked for up to 2 years. veLITH gives governance rights and access to protocol rewards.
 
 **POL (Protocol-Owned Liquidity)**\
 Liquidity seeded and owned by Lithos. POL ensures deep liquidity in core pairs and reduces reliance on mercenary capital.

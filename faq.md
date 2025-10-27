@@ -6,7 +6,7 @@ ve(3,3) is the tokenomics model Lithos is built on. It combines Curve’s vote-e
 
 #### What is veLITH?
 
-veLITH is the governance token of Lithos. Users lock LITH for up to four years to mint veLITH as an NFT. The longer the lock, the more voting power you receive. veLITH holders vote on gauges, direct emissions, and earn rewards from fees, bribes, and anti-dilution rebases.
+veLITH is the governance token of Lithos. Users lock LITH for up to two years to mint veLITH as an NFT. The longer the lock, the more voting power you receive. veLITH holders vote on gauges, direct emissions, and earn rewards from fees, bribes, and anti-dilution rebases.
 
 #### What are gauges?
 

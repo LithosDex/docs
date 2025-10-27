@@ -10,7 +10,7 @@ Locking LITH creates veLITH, which grants voting power and access to governance 
 Navigate to the **Governance** section in the Lithos app.
 
 **2. Choose Lock Amount and Duration**\
-Enter the amount of LITH you want to lock and select a duration (up to 4 years).
+Enter the amount of LITH you want to lock and select a duration (up to 2 years).
 
 * Longer locks = more veLITH voting power.
 * veLITH balance decays linearly until expiry, encouraging continuous relocking.
